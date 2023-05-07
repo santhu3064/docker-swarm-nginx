@@ -45,9 +45,9 @@ docker stack deploy --compose-file docker-compose.yaml nginx
 
 ```
 
-# For each new service create the config map with nginx configuration and add under `configs`
+For each new service create the config map with nginx configuration and add under `configs`
 
 
-# The compose file refers to sample application in `https://github.com/santhu3064/addressbook-tomcat8`
+The compose file refers to sample application in `https://github.com/santhu3064/addressbook-tomcat8`
 
 
